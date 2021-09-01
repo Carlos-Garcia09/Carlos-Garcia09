@@ -8,5 +8,6 @@ Languages:
 
 - Python
 - C
+- C++
 - Verilog
 
